@@ -1,0 +1,23 @@
+{
+  "name": "gowes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.10.0",
+    "apollo-server": "^2.19.2",
+    "bcryptjs": "^2.4.3",
+    "firebase": "^8.2.5",
+    "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "mongoose": "^5.11.13"
+  }
+}
